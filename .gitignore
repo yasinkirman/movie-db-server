@@ -1,0 +1,24 @@
+# .NET Core
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.sln.ide
+*.sln.cache
+
+# Kaydedilmiş yapılar
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.idb
+
+# JSON dosyaları (Geliştirme ayarları içermesi durumunda)
+# appsettings.Development.json
+# appsettings.json
+
+# Diğer dosyalar
+*.db
+*.log
+*.dSYM/
